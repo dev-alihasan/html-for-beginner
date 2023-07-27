@@ -137,3 +137,16 @@ Anchor tags are used to create hyperlinks that allow users to navigate between w
 <a href="https://www.example.com">Visit Example Website</a>
 
 ```
+### URL Structure
+URLs (Uniform Resource Locators) specify the web address of a resource.
+```html
+https://www.example.com/index.html
+|       |           |        |
+protocol  domain     path     file
+```
+### Linking to External Pages
+Linking to external websites using absolute URLs.
+```html
+<a href="https://www.google.com">Google</a>
+```
+
